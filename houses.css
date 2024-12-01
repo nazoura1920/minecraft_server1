@@ -1,0 +1,11 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    display: block;
+    justify-content: center;
+    height: 100vh;
+    margin: 2%;
+    background-image:url(Premium\ Photo\ _\ Beautiful\ ancient\ mountains\ at\ sunset\ in\ the\ evening\ sunlight\ and\ in\ the\ fog.jpg);
+    background-size: cover;
+}
+h1{text-align: center;
+}
